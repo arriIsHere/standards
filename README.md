@@ -4,7 +4,19 @@ Like many developers I have a certain style to all my code. I have decided to en
 
 ## Installing the standards
 
-TODO
+this can be installed via NPM
+
+```bash
+npm install eslint-config-benblais
+```
+
+you can then extend this in your eslint configuration.
+
+```json
+{
+	"extends": "benblais"
+}
+```
 
 ## 1. Spacing
 
