@@ -25,7 +25,7 @@ Persons with attention deficit disorders and ASD conditions, have difficulty rea
 #### 1.2.1 Spacing after variable declarations
 Place an empty line between your section of variable declarations and the next non-declaration statement in your code. This separates the code out and makes it more readable.
 
-**:heavy-check-mark:Good**
+**:heavy_check_mark:Good**
 ```javascript
 const numbers = [1,2,3,4,5,6];
 
@@ -59,7 +59,7 @@ if(number !== a || number !== b) {
 
 Multiline blocks, expressions, declarations and control statements must have a space before and after them.
 
-**:heavy-check-mark:Good**
+**:heavy_check_mark:Good**
 ```javascript
 runMe();
 
@@ -86,7 +86,7 @@ runMeThree();
 #### 1.2.3 Spacing after a function or class declaration
 When declaring a class or function there must be space before. The one exception to this is declarations of variables in the top of a function block.
 
-**:heavy-check-mark:Good**
+**:heavy_check_mark:Good**
 ```javascript
 class MyClass {
 
@@ -120,7 +120,7 @@ function() {
 
 All blocks and block-like statements must have curly brackets around the content.
 
-**:heavy-check-mark:Good**
+**:heavy_check_mark:Good**
 ```javascript
 if(isTrue) {
 	doSomething();
