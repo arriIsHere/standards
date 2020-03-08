@@ -1,3 +1,3 @@
 # {coding standards}
 
-Like many developers I have a certain style to all my code. This is influenced by years of experience, personal preference and discussions with other people. 
+Like many developers I have a certain style to all my code. I have decided to enumerate them here along with an accompanying eslint rule or accessability related reasoning for its use.
