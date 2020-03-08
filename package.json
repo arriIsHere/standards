@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/bblais23/standards/issues"
   },
-  "homepage": "https://github.com/bblais23/standards#readme"
+  "homepage": "https://github.com/bblais23/standards#readme",
+  "dependencies": {},
+  "peerDependencies": {
+    "@babel/core": ">=7.0.0"
+  }
 }
