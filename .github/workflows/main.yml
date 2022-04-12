@@ -6,8 +6,6 @@ name: Publish to Node and GH
 on:
   push:
     branches: [master]
-  pull_request: 
-    branches: [master]
 
 jobs:
   build:
