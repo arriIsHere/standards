@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-benblais",
+  "name": "eslint-config-arri",
   "version": "1.2.1",
   "description": "A personal set of coding standards that I use for personal projects",
   "main": "index.js",
@@ -10,9 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/bblais23/standards.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": ["JavaScript Coding Standards", "JavaScript", "Coding Standards"],
+  "author": "Arri Blais <arriblais@gmail.com>",
+  "license": "Apache 2.0",
   "bugs": {
     "url": "https://github.com/bblais23/standards/issues"
   },
