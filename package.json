@@ -3,9 +3,7 @@
   "version": "1.2.1",
   "description": "A personal set of coding standards that I use for personal projects",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/bblais23/standards.git"
