@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-arri",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "description": "A personal set of coding standards that I use for personal projects",
   "main": "index.js",
   "scripts": {},
