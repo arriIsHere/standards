@@ -7,14 +7,14 @@ Like many developers I have a certain style to all my code. I have decided to en
 this can be installed via NPM
 
 ```bash
-npm install eslint-config-benblais
+npm install eslint-config-arri
 ```
 
 you can then extend this in your eslint configuration.
 
 ```json
 {
-	"extends": "benblais"
+	"extends": "arri"
 }
 ```
 
